@@ -1,0 +1,15 @@
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\ifElse\obj\Debug\net5.0\ifElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\ifElse\obj\Debug\net5.0\ifElse.AssemblyInfoInputs.cache
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\ifElse\obj\Debug\net5.0\ifElse.AssemblyInfo.cs
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\ifElse\obj\Debug\net5.0\ifElse.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\ifElse\bin\Debug\net5.0\ifElse.exe
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\ifElse\bin\Debug\net5.0\ifElse.deps.json
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\ifElse\bin\Debug\net5.0\ifElse.runtimeconfig.json
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\ifElse\bin\Debug\net5.0\ifElse.runtimeconfig.dev.json
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\ifElse\bin\Debug\net5.0\ifElse.dll
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\ifElse\bin\Debug\net5.0\ifElse.pdb
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\ifElse\obj\Debug\net5.0\ifElse.dll
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\ifElse\obj\Debug\net5.0\refint\ifElse.dll
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\ifElse\obj\Debug\net5.0\ifElse.pdb
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\ifElse\obj\Debug\net5.0\ifElse.genruntimeconfig.cache
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\ifElse\obj\Debug\net5.0\ref\ifElse.dll
