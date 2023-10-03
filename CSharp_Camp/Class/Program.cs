@@ -20,7 +20,7 @@ namespace Class
             Course course2 = new Course();
             course2.CourseName = "C";
             course2.CourseTeacher = "Ali K.";
-            course2.Viewing = 134;
+            course2.Viewing = 174;
 
 
             //Console.WriteLine(course0.CourseName + " : " + course0.CourseTeacher);
