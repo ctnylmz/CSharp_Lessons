@@ -1,0 +1,15 @@
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Class\bin\Debug\net5.0\Class.exe
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Class\bin\Debug\net5.0\Class.deps.json
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Class\bin\Debug\net5.0\Class.runtimeconfig.json
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Class\bin\Debug\net5.0\Class.runtimeconfig.dev.json
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Class\bin\Debug\net5.0\Class.dll
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Class\bin\Debug\net5.0\Class.pdb
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Class\obj\Debug\net5.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Class\obj\Debug\net5.0\Class.AssemblyInfoInputs.cache
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Class\obj\Debug\net5.0\Class.AssemblyInfo.cs
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Class\obj\Debug\net5.0\Class.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Class\obj\Debug\net5.0\Class.dll
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Class\obj\Debug\net5.0\refint\Class.dll
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Class\obj\Debug\net5.0\Class.pdb
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Class\obj\Debug\net5.0\Class.genruntimeconfig.cache
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Class\obj\Debug\net5.0\ref\Class.dll
