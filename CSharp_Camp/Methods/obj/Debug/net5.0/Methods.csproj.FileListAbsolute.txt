@@ -1,0 +1,15 @@
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Methods\bin\Debug\net5.0\Methods.exe
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Methods\bin\Debug\net5.0\Methods.deps.json
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Methods\bin\Debug\net5.0\Methods.runtimeconfig.json
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Methods\bin\Debug\net5.0\Methods.runtimeconfig.dev.json
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Methods\bin\Debug\net5.0\Methods.dll
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Methods\bin\Debug\net5.0\Methods.pdb
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Methods\obj\Debug\net5.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Methods\obj\Debug\net5.0\Methods.AssemblyInfoInputs.cache
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Methods\obj\Debug\net5.0\Methods.AssemblyInfo.cs
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Methods\obj\Debug\net5.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Methods\obj\Debug\net5.0\Methods.dll
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Methods\obj\Debug\net5.0\refint\Methods.dll
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Methods\obj\Debug\net5.0\Methods.pdb
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Methods\obj\Debug\net5.0\Methods.genruntimeconfig.cache
+C:\Users\Jack\Documents\GitHub\CSharp_Camp\CSharp_Camp\Methods\obj\Debug\net5.0\ref\Methods.dll
