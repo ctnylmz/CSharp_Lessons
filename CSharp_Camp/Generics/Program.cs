@@ -9,10 +9,7 @@ namespace Generics
             MyList<string> names = new MyList<string>();
             names.Add("Çetin");
 
-            foreach (var item in names[0])
-            {
-                Console.WriteLine()
-            }
+         
 
 
         }
