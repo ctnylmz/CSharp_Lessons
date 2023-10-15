@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Camp\\CSharp_Camp\\OPP1\\8OPP1.csproj": {}
+    "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Lessons\\CSharp_Camp\\OPP1\\8OPP1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Camp\\CSharp_Camp\\OPP1\\8OPP1.csproj": {
+    "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Lessons\\CSharp_Camp\\OPP1\\8OPP1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Camp\\CSharp_Camp\\OPP1\\8OPP1.csproj",
+        "projectUniqueName": "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Lessons\\CSharp_Camp\\OPP1\\8OPP1.csproj",
         "projectName": "8OPP1",
-        "projectPath": "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Camp\\CSharp_Camp\\OPP1\\8OPP1.csproj",
+        "projectPath": "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Lessons\\CSharp_Camp\\OPP1\\8OPP1.csproj",
         "packagesPath": "C:\\Users\\Jack\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Camp\\CSharp_Camp\\OPP1\\obj\\",
+        "outputPath": "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Lessons\\CSharp_Camp\\OPP1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jack\\AppData\\Roaming\\NuGet\\NuGet.Config",

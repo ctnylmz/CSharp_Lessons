@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Camp\\CSharp_Camp\\_4DayHomeWork\\_4DayHomeWork.csproj",
+      "projectUniqueName": "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Lessons\\CSharp_Camp\\_4DayHomeWork\\_4DayHomeWork.csproj",
       "projectName": "_4DayHomeWork",
-      "projectPath": "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Camp\\CSharp_Camp\\_4DayHomeWork\\_4DayHomeWork.csproj",
+      "projectPath": "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Lessons\\CSharp_Camp\\_4DayHomeWork\\_4DayHomeWork.csproj",
       "packagesPath": "C:\\Users\\Jack\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Camp\\CSharp_Camp\\_4DayHomeWork\\obj\\",
+      "outputPath": "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Lessons\\CSharp_Camp\\_4DayHomeWork\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jack\\AppData\\Roaming\\NuGet\\NuGet.Config",

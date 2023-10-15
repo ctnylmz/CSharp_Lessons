@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Camp\\CSharp_Camp\\array\\2Array.csproj": {}
+    "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Lessons\\CSharp_Camp\\array\\2Array.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Camp\\CSharp_Camp\\array\\2Array.csproj": {
+    "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Lessons\\CSharp_Camp\\array\\2Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Camp\\CSharp_Camp\\array\\2Array.csproj",
+        "projectUniqueName": "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Lessons\\CSharp_Camp\\array\\2Array.csproj",
         "projectName": "2Array",
-        "projectPath": "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Camp\\CSharp_Camp\\array\\2Array.csproj",
+        "projectPath": "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Lessons\\CSharp_Camp\\array\\2Array.csproj",
         "packagesPath": "C:\\Users\\Jack\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Camp\\CSharp_Camp\\array\\obj\\",
+        "outputPath": "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Lessons\\CSharp_Camp\\array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jack\\AppData\\Roaming\\NuGet\\NuGet.Config",
