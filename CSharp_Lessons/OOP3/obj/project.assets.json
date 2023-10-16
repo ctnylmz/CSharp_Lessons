@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Lessons\\CSharp_Lessons\\OPP1\\OOP1.csproj",
-      "projectName": "OOP1",
-      "projectPath": "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Lessons\\CSharp_Lessons\\OPP1\\OOP1.csproj",
+      "projectUniqueName": "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Lessons\\CSharp_Lessons\\OOP3\\OOP3.csproj",
+      "projectName": "OOP3",
+      "projectPath": "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Lessons\\CSharp_Lessons\\OOP3\\OOP3.csproj",
       "packagesPath": "C:\\Users\\Jack\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Lessons\\CSharp_Lessons\\OPP1\\obj\\",
+      "outputPath": "C:\\Users\\Jack\\Documents\\GitHub\\CSharp_Lessons\\CSharp_Lessons\\OOP3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jack\\AppData\\Roaming\\NuGet\\NuGet.Config",
