@@ -8,12 +8,15 @@ namespace OOP3
 {
     class ApplicationManager
     {
-        public void Do(ICreditManager creditManager,ILoogerService loogerService)
+        public void Do(ICreditManager creditManager,List<ILoogerService> loogerServices)
         {
 
             creditManager.Calculate();
 
-            loogerService.Log();
+            foreach(var item in loogerServices)
+            {
+                item.Log();
+            }
         }
 
         public void CreditSummary(List<ICreditManager> credits)
