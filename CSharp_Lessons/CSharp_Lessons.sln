@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{C5989EC6-771B-464D-AAC3-3CBED452C442}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_5DayHomeWork", "_5DayHomeWork\_5DayHomeWork.csproj", "{3D49D0E1-7D57-4F7E-BEB4-06F962445A82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_5DayHomeWork", "_5DayHomeWork\_5DayHomeWork.csproj", "{3D49D0E1-7D57-4F7E-BEB4-06F962445A82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_GameProjectSimulation", "_GameProjectSimulation\_GameProjectSimulation.csproj", "{3165999F-2B02-4082-B7E5-20A93E0CBBD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{3D49D0E1-7D57-4F7E-BEB4-06F962445A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D49D0E1-7D57-4F7E-BEB4-06F962445A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D49D0E1-7D57-4F7E-BEB4-06F962445A82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3165999F-2B02-4082-B7E5-20A93E0CBBD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3165999F-2B02-4082-B7E5-20A93E0CBBD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3165999F-2B02-4082-B7E5-20A93E0CBBD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3165999F-2B02-4082-B7E5-20A93E0CBBD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

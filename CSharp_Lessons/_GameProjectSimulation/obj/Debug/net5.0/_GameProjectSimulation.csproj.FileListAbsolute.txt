@@ -1,0 +1,15 @@
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_GameProjectSimulation\bin\Debug\net5.0\_GameProjectSimulation.exe
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_GameProjectSimulation\bin\Debug\net5.0\_GameProjectSimulation.deps.json
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_GameProjectSimulation\bin\Debug\net5.0\_GameProjectSimulation.runtimeconfig.json
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_GameProjectSimulation\bin\Debug\net5.0\_GameProjectSimulation.runtimeconfig.dev.json
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_GameProjectSimulation\bin\Debug\net5.0\_GameProjectSimulation.dll
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_GameProjectSimulation\bin\Debug\net5.0\_GameProjectSimulation.pdb
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_GameProjectSimulation\obj\Debug\net5.0\_GameProjectSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_GameProjectSimulation\obj\Debug\net5.0\_GameProjectSimulation.AssemblyInfoInputs.cache
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_GameProjectSimulation\obj\Debug\net5.0\_GameProjectSimulation.AssemblyInfo.cs
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_GameProjectSimulation\obj\Debug\net5.0\_GameProjectSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_GameProjectSimulation\obj\Debug\net5.0\_GameProjectSimulation.dll
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_GameProjectSimulation\obj\Debug\net5.0\refint\_GameProjectSimulation.dll
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_GameProjectSimulation\obj\Debug\net5.0\_GameProjectSimulation.pdb
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_GameProjectSimulation\obj\Debug\net5.0\_GameProjectSimulation.genruntimeconfig.cache
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_GameProjectSimulation\obj\Debug\net5.0\ref\_GameProjectSimulation.dll

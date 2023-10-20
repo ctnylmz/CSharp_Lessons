@@ -1,4 +1,7 @@
 ﻿using System;
+using _5DayHomeWork.Abstract;
+using _5DayHomeWork.Concrete;
+using _5DayHomeWork.Entities;
 
 namespace _5DayHomeWork
 {
@@ -8,17 +11,14 @@ namespace _5DayHomeWork
         static void Main(string[] args)
         {
         
-            CustomerManager customerManager = new CustomerManager();
-            customerManager.Add();
-            customerManager.Update();
-
-            Customer customer = new Customer();
-            customer.Id = 1;
-            customer.FirstName = "Çetin";
-            customer.LastName = "Yılmaz";
-            customer.City = "İstanbul";
-
-            Console.WriteLine(customer.FirstName + " " + customer.LastName );
+           BaseCustomerManager customerManager = new NeroCustomerManager();
+            customerManager.Save(new Customer
+            {
+                DateOfBirth = new DateTime(1985, 1, 6),
+                FirstName = "Engin",
+                LastName = "Demiroğ",
+                NationalityId = "28861408"
+            });
 
 
 
