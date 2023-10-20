@@ -1,0 +1,15 @@
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_5DayHomeWork\bin\Debug\net5.0\_5DayHomeWork.exe
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_5DayHomeWork\bin\Debug\net5.0\_5DayHomeWork.deps.json
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_5DayHomeWork\bin\Debug\net5.0\_5DayHomeWork.runtimeconfig.json
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_5DayHomeWork\bin\Debug\net5.0\_5DayHomeWork.runtimeconfig.dev.json
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_5DayHomeWork\bin\Debug\net5.0\_5DayHomeWork.dll
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_5DayHomeWork\bin\Debug\net5.0\_5DayHomeWork.pdb
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_5DayHomeWork\obj\Debug\net5.0\_5DayHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_5DayHomeWork\obj\Debug\net5.0\_5DayHomeWork.AssemblyInfoInputs.cache
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_5DayHomeWork\obj\Debug\net5.0\_5DayHomeWork.AssemblyInfo.cs
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_5DayHomeWork\obj\Debug\net5.0\_5DayHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_5DayHomeWork\obj\Debug\net5.0\_5DayHomeWork.dll
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_5DayHomeWork\obj\Debug\net5.0\refint\_5DayHomeWork.dll
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_5DayHomeWork\obj\Debug\net5.0\_5DayHomeWork.pdb
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_5DayHomeWork\obj\Debug\net5.0\_5DayHomeWork.genruntimeconfig.cache
+C:\Users\Jack\Documents\GitHub\CSharp_Lessons\CSharp_Lessons\_5DayHomeWork\obj\Debug\net5.0\ref\_5DayHomeWork.dll
